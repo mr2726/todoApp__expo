@@ -35,7 +35,7 @@ Todo List is a modern mobile task management application developed using React N
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [repository URL]
+git clone https://github.com/mr2726/todoApp__expo.git
 cd todo_app
 ```
 
@@ -124,11 +124,8 @@ We welcome contributions to the project! If you want to make changes:
 3. Make your changes
 4. Create a Pull Request
 
-## License
-MIT License
-
 ## Authors
-- [Your name/organization]
+- MR.2726
 
 ## Acknowledgments
 - React Native team
